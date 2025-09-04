@@ -31,6 +31,7 @@ protected:
 	bool bSprinting = false;
 
 	/** If true, we're recovering stamina */
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Battery")
 	bool bRecovering = false;
 
 	/** Default walk speed when not sprinting or recovering */
