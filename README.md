@@ -81,10 +81,11 @@ This project was developed as a **foundation prototype** in **Unreal Engine 5**.
 2. Use **WASD** to move, **Mouse** to look around.
 3. **Left Mouse**: Fire weapon (uses battery).
 4. **Tab**: Toggle flashlight (uses battery).
-5. **Shift**: Sprint, but be mindful of your stamina 
-6. Collect **battery packs** and **health kits** scattered throughout the facility.
-7. Stay quiet… the enemy can hear you.
-8. Survive and escape.
+5. **Shift**: Sprint, but be mindful of your stamina
+6. **H**: To pause the game
+7. Collect **battery packs** and **health kits** scattered throughout the facility.
+8. Stay quiet… the enemy can hear you.
+9. Survive and escape.
 
 ---
 
