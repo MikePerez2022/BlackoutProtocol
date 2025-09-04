@@ -90,13 +90,11 @@ This project was developed as a **foundation prototype** in **Unreal Engine 5**.
 ---
 
 ## 📸 Screenshots
-<img width="2048" height="1853" alt="BKG" src="https://github.com/user-attachments/assets/8a2a81d3-d2c4-40f4-8517-a4f2e04e5ec6" />
+*Title*
+![Gameplay Screenshot](https://github.com/user-attachments/assets/8a2a81d3-d2c4-40f4-8517-a4f2e04e5ec6)
 
-![Gameplay Screenshot](screenshots/gameplay1.png)
 *Exploring the dark facility with flashlight.*
+![Gameplay Screenshot](https://github.com/user-attachments/assets/f07d0f1e-7e86-4cfc-9bbd-ea628fb03713)
 
-![Enemy Encounter](screenshots/enemy.png)
 *An enemy drawn to the sound of gunfire.*
-
-![Resource Pickups](screenshots/items.png)
-*Battery and health items essential for survival.*
+![Enemy Encounter](https://github.com/user-attachments/assets/537d8351-b274-4939-b0da-0aedc44f4425)
